@@ -1,6 +1,6 @@
 - 👋 Hi, I’m James Yates (@yates6789)
-- 👀 I’m interested in Python, Django, JavaScript, Web Development, and DevOps
-- 🌱 I’m currently learning Azure, PostrgreSQL, and Node.js
+- 👀 I’m interested in Python, Django, SQL, JavaScript, Web Development, and DevOps
+- 🌱 I’m currently learning Azure, , Rust, and Node.js
 - 💞️ I’m looking to collaborate on web-based engineering applications and solutions.
 - 📫 How to reach me - yates6789@gmail.com
 
